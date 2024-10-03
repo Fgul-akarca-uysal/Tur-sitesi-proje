@@ -5,5 +5,9 @@
 
 <h2>Ekran goruntusu</h2>
 
+<<<<<<< HEAD
 ![](c:\Users\Akarca\Downloads\2024-10-0310-08-51-ezgif.com-video-speed.mkv)
 ![](2024-10-0310-08-51-ezgif.com-video-speed.mkv)
+=======
+
+>>>>>>> 22a8bc51704ced2d82c296e94706303944687c95
